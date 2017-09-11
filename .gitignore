@@ -26,3 +26,6 @@ dist/
 /static/
 /saleor/static/assets/
 webpack-bundle.json
+
+phantomjs-2.1.1-linux-x86_64/
+venv
